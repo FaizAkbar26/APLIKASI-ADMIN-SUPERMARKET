@@ -1,4 +1,4 @@
 # APLIKASI-ADMIN-SUPERMARKET
 Ini adalah projek tugas akhir saya untuk matakuliah Pemrograman Berorientasi Objek<br>
-Nama : Muhammad Faiz Akbar
+<b>Nama : Muhammad Faiz Akbar<br>
 NIM  : 2100018361
